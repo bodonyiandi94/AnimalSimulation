@@ -1,0 +1,11 @@
+*.suo
+*.sdf
+*.opensdf
+*.ilk
+*.exe
+*.pdb
+
+AnimalSimulation/Debug/**
+AnimalSimulation/Release/**
+
+.vs/**
