@@ -1,4 +1,4 @@
-# Reference Implementation for *Efficient object location determination and error analysis based on barycentric coordinates* and *A barycentric coordinates-based visualization framework for movement of microscopic organisms*
+# Reference Implementation for papers titled *Efficient object location determination and error analysis based on barycentric coordinates* and *A barycentric coordinates-based visualization framework for movement of microscopic organisms*
 
 This repository contains our reference implementation for the paper *Efficient object location determination and error analysis based on barycentric coordinates* and our manuscript *A barycentric coordinates-based visualization framework for movement of microscopic organisms*.
 
